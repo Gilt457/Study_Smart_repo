@@ -1,7 +1,3 @@
-Sure! Below is a sample `README.md` file for your examination question app. This README file is structured to provide a clear and comprehensive overview of the project, including how to set it up, run it, and understand its purpose.
-
----
-
 # Study Smart - Examination Question Repository
 
 ## Overview
